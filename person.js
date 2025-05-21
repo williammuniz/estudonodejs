@@ -4,7 +4,7 @@ class Person {
   }
 
   sayMyName() {
-    return `My name is ${this.name}!`; // corrigido: template string correta
+    return `My name is ${this.name}!`;
   }
 }
 
